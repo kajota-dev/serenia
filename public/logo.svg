@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" fill="none">
+  <!-- Center tall petal -->
+  <path d="M100 18 C76 44 68 88 68 132 C68 149 83 162 100 162 C117 162 132 149 132 132 C132 88 124 44 100 18Z" stroke="#006680" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Left outer wing -->
+  <path d="M68 132 C48 122 20 88 20 58 C20 35 52 18 100 18" stroke="#006680" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right outer wing -->
+  <path d="M132 132 C152 122 180 88 180 58 C180 35 148 18 100 18" stroke="#006680" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottom bowl arc -->
+  <path d="M20 132 Q100 174 180 132" stroke="#006680" stroke-width="8" stroke-linecap="round"/>
+  <!-- Inner left vein -->
+  <path d="M100 18 C91 54 84 96 82 132" stroke="#006680" stroke-width="5.5" stroke-linecap="round"/>
+  <!-- Inner right vein -->
+  <path d="M100 18 C109 54 116 96 118 132" stroke="#006680" stroke-width="5.5" stroke-linecap="round"/>
+</svg>
